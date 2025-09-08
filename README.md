@@ -24,9 +24,6 @@ The dashboards help stakeholders make **data-driven decisions** by tracking KPIs
 - Sales Trend Over Time  
 - Reasons for Returns  
 
-##![Sales Performance Dashboard]
-(C:\Users\ASUS\Videos\Captures\Power BI Desktop 08-09-2025 14_52_36.png)
-
 ---
 
 ### 2. Budget & Sales Dashboard
@@ -34,8 +31,6 @@ The dashboards help stakeholders make **data-driven decisions** by tracking KPIs
 - Sales Performance by Region  
 - Monthly Sales Trends  
 - Budget Allocation by Category  
-
-![Budget & Sales Dashboard](C:\Users\ASUS\Videos\Captures\Screenshot 08-09-2025 14_41_34.png)
 
 ---
 
@@ -64,6 +59,6 @@ The dashboards help stakeholders make **data-driven decisions** by tracking KPIs
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-username)  
+**Geetha**  
+- [LinkedIn](https://www.linkedin.com/in/geetha-vasavi-496a12255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [GitHub](https://github.com/your-GeethaVasaviN)  
