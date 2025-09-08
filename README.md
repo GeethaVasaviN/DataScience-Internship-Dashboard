@@ -24,7 +24,8 @@ The dashboards help stakeholders make **data-driven decisions** by tracking KPIs
 - Sales Trend Over Time  
 - Reasons for Returns  
 
-![Sales Performance Dashboard](C:\Users\ASUS\Videos\Captures\Power BI Desktop 08-09-2025 14_52_36.png)
+##![Sales Performance Dashboard]
+(C:\Users\ASUS\Videos\Captures\Power BI Desktop 08-09-2025 14_52_36.png)
 
 ---
 
