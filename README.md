@@ -1,7 +1,6 @@
-# 📊 Data Science Internship — Power BI Dashboard Project
+#  Power BI Dashboard Project
 
-## 🔎 Project Overview
-This project was developed during my **Data Science Internship**.  
+## 🔎 Project Overview  
 It focuses on building interactive **Power BI dashboards** to analyze sales performance, budgeting, and customer insights.  
 The dashboards help stakeholders make **data-driven decisions** by tracking KPIs, identifying trends, and comparing budget vs actual performance.
 
